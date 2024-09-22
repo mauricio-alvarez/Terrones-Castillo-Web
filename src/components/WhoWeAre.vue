@@ -32,5 +32,5 @@
   
   <script setup>
   // No additional script needed for this component
-  import bg from "/home/desmond/Desktop/Web Design/Terrones&CastilloWeb/src/assets/derecho-administrativo.jpg";
+  import bg from "@/assets/derecho-administrativo.jpg";
   </script>
